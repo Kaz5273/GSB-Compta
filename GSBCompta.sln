@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSBCompta", "GSBCompta\GSBCompta.csproj", "{B2DB3F21-C931-4F9F-B138-797D54273C12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTest", "ConsoleTest\ConsoleTest.csproj", "{FFE157A0-4DF8-4C00-9722-BD037073DB90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GSBModel", "GSBModel\GSBModel.csproj", "{940410D6-F10C-4A14-BC0D-FFD2280A9775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2DB3F21-C931-4F9F-B138-797D54273C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2DB3F21-C931-4F9F-B138-797D54273C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2DB3F21-C931-4F9F-B138-797D54273C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2DB3F21-C931-4F9F-B138-797D54273C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFE157A0-4DF8-4C00-9722-BD037073DB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFE157A0-4DF8-4C00-9722-BD037073DB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFE157A0-4DF8-4C00-9722-BD037073DB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFE157A0-4DF8-4C00-9722-BD037073DB90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{940410D6-F10C-4A14-BC0D-FFD2280A9775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{940410D6-F10C-4A14-BC0D-FFD2280A9775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{940410D6-F10C-4A14-BC0D-FFD2280A9775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{940410D6-F10C-4A14-BC0D-FFD2280A9775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {570DDBFE-E093-4A11-A2C4-F1F80655119D}
+	EndGlobalSection
+EndGlobal

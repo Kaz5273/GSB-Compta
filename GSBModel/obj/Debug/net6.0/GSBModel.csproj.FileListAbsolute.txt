@@ -1,0 +1,12 @@
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\bin\Debug\net6.0\GSBModel.deps.json
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\bin\Debug\net6.0\GSBModel.dll
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\bin\Debug\net6.0\GSBModel.pdb
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\obj\Debug\net6.0\GSBModel.csproj.AssemblyReference.cache
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\obj\Debug\net6.0\GSBModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\obj\Debug\net6.0\GSBModel.AssemblyInfoInputs.cache
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\obj\Debug\net6.0\GSBModel.AssemblyInfo.cs
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\obj\Debug\net6.0\GSBModel.csproj.CoreCompileInputs.cache
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\obj\Debug\net6.0\GSBModel.dll
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\obj\Debug\net6.0\refint\GSBModel.dll
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\obj\Debug\net6.0\GSBModel.pdb
+C:\Users\allard.kazuki\source\repos\GSBCompta\GSBModel\obj\Debug\net6.0\ref\GSBModel.dll

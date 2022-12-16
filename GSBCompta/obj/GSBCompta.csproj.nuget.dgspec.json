@@ -1,0 +1,129 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBCompta\\GSBCompta.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBCompta\\GSBCompta.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBCompta\\GSBCompta.csproj",
+        "projectName": "GSBCompta",
+        "projectPath": "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBCompta\\GSBCompta.csproj",
+        "packagesPath": "C:\\Users\\allard.kazuki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBCompta\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\allard.kazuki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBModel\\GSBModel.csproj": {
+                "projectPath": "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBModel\\GSBModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBModel\\GSBModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBModel\\GSBModel.csproj",
+        "projectName": "GSBModel",
+        "projectPath": "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBModel\\GSBModel.csproj",
+        "packagesPath": "C:\\Users\\allard.kazuki\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\allard.kazuki\\source\\repos\\GSBCompta\\GSBModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\allard.kazuki\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
